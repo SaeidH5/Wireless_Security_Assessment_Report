@@ -1,0 +1,70 @@
+4404:9:websocket;0:~8:response;711:6:reason;2:OK,11:status_code;3:200#13:timestamp_end;18:1774261199.2354047^15:timestamp_start;17:1774261199.233683^8:trailers;0:~7:content;323:<html>
+<head><title>Free Wi-Fi</title></head>
+<body>
+	<h1>Free Public Wi-Fi</h1>
+	<p>Please enter your credentials to continue:</p>
+	<form action="login.html">
+		Username: <input type="text" name="user"><br>
+		Password: <input type="password" name="pass"><br>
+		<input type="submit" value="login">
+	</form>
+</body>
+</html>
+,7:headers;203:41:6:Server,28:SimpleHTTP/0.6 Python/3.12.3,]40:4:Date,29:Mon, 23 Mar 2026 10:19:58 GMT,]28:12:Content-type,9:text/html,]24:14:Content-Length,3:323,]50:13:Last-Modified,29:Sun, 22 Mar 2026 15:25:48 GMT,]]12:http_version;8:HTTP/1.0,}7:request;1042:4:path;1:/,9:authority;0:,6:scheme;5:https,6:method;3:GET,4:port;4:8443#4:host;10:10.10.0.10;13:timestamp_end;18:1774261199.2303193^15:timestamp_start;18:1774261199.2289906^8:trailers;0:~7:content;0:,7:headers;800:26:4:Host,15:10.10.0.10:8443,]28:10:Connection,10:keep-alive,]29:13:Cache-Control,9:max-age=0,]81:9:sec-ch-ua,65:"Not)A;Brand";v="8", "Chromium";v="138", "Microsoft Edge";v="138",]25:16:sec-ch-ua-mobile,2:?0,]34:18:sec-ch-ua-platform,9:"Windows",]33:25:Upgrade-Insecure-Requests,1:1,]144:10:User-Agent,125:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0,]149:6:Accept,135:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7,]25:14:Sec-Fetch-Site,4:none,]29:14:Sec-Fetch-Mode,8:navigate,]23:14:Sec-Fetch-User,2:?1,]29:14:Sec-Fetch-Dest,8:document,]46:15:Accept-Encoding,23:gzip, deflate, br, zstd,]37:15:Accept-Language,14:en-US,en;q=0.9,]]12:http_version;8:HTTP/1.1,}6:backup;0:~17:timestamp_created;18:1774261199.2291355^7:comment;0:;8:metadata;0:}6:marked;0:;9:is_replay;0:~11:intercepted;5:false!11:server_conn;1873:3:via;0:~19:timestamp_tcp_setup;18:1774261199.2105155^7:address;21:10:10.10.0.10;4:8443#]19:timestamp_tls_setup;17:1774261199.217249^13:timestamp_end;0:~15:timestamp_start;18:1774261199.2087038^3:sni;10:10.10.0.10;11:tls_version;7:TLSv1.3;11:cipher_list;0:]6:cipher;22:TLS_AES_256_GCM_SHA384;11:alpn_offers;16:2:h2,8:http/1.1,]4:alpn;0:,16:certificate_list;1340:1334:-----BEGIN CERTIFICATE-----
+MIIDqzCCApOgAwIBAgIUZiEb8zeRX6QXQlVhhw5Q3MH9wbMwDQYJKoZIhvcNAQEL
+BQAwZTELMAkGA1UEBhMCQUUxDjAMBgNVBAgMBUR1YmFpMQ4wDAYDVQQHDAVEdWJh
+aTEhMB8GA1UECgwYSW50ZXJuZXQgV2lkZ2l0cyBQdHkgTHRkMRMwEQYDVQQDDAox
+MC4xMC4wLjEwMB4XDTI2MDMxOTE0MzIxM1oXDTI3MDMxOTE0MzIxM1owZTELMAkG
+A1UEBhMCQUUxDjAMBgNVBAgMBUR1YmFpMQ4wDAYDVQQHDAVEdWJhaTEhMB8GA1UE
+CgwYSW50ZXJuZXQgV2lkZ2l0cyBQdHkgTHRkMRMwEQYDVQQDDAoxMC4xMC4wLjEw
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsrRNT0IuSTQIhS9/uNjS
+85Chb2DPDk3C2Y+hC9f0VOKqWY9N0xnKwHpb0YBpYXWZgO5ixOIXdNiFl6SU6pxz
+OryxEtxXVda45t3MgZFPgXgHuGfBvJAL3SNc0A9sIs2WRWjPlX6zbNvA4nSyvQ+t
+Di1ZhbrebwzTIonfE1wwFgACSS9QR5pw8PCB2S4NI+YM9miZNmF5t818OUy4nhMI
+izVZyUBkIevBLKv9Eu5ISEatLHfTstDXMqAiZIcxuLH8J5kcgGnaKuLIo/UGJbE0
+tnRpZ4lwqhuL+RBXDZhDxbF+XhwfjmAZNDYbaMp4tqByHuMr0cqklZ3IMvxyUoHr
+2wIDAQABo1MwUTAdBgNVHQ4EFgQUYbNakCzgiSCkelKk4Xqf7c8OybcwHwYDVR0j
+BBgwFoAUYbNakCzgiSCkelKk4Xqf7c8OybcwDwYDVR0TAQH/BAUwAwEB/zANBgkq
+hkiG9w0BAQsFAAOCAQEADJE9UZo3Gl5Zx70siAjofSFi34Y6ZCIAnwGqMitauZHI
+zLRdO7OToA0yxPJQmPWzXDi3bLrfTB0GOq+YNz21SPORQCsxihu4dnTk2cC5757h
+KyTVhLNapHDRyuzXNqhgAMEjFwJ7KIwdWeM4JdIzaX28dUACzBX7XwHR4uBqFbO1
+qxqeUdkAiqWThKge3G7yGWs6Z9wP8dzQ/cu5AAClWuS7JH4D1rZ9U18TeKNo88Tn
+u8YWGqmyIfxUdc4aTv3YIdSc+7N2ZaoWxcoacj1ebw1XczsAYS8MDGZatSjh5qwD
+mx2ViNqD4U14HQjqlb5MgnReY3OurBdsljRyQAaR0w==
+-----END CERTIFICATE-----
+,]3:tls;4:true!5:error;0:~18:transport_protocol;3:tcp;2:id;36:ff058305-310f-4d0a-89c5-bfc3ed0293b4;8:sockname;22:10:10.10.0.30;5:33566#]8:peername;21:10:10.10.0.10;4:8443#]}11:client_conn;473:10:proxy_mode;11:transparent;8:mitmcert;0:~19:timestamp_tls_setup;17:1774261199.227162^13:timestamp_end;0:~15:timestamp_start;18:1774261199.2080438^3:sni;0:~11:tls_version;7:TLSv1.3;11:cipher_list;0:]6:cipher;22:TLS_AES_256_GCM_SHA384;11:alpn_offers;16:2:h2,8:http/1.1,]4:alpn;0:,16:certificate_list;0:]3:tls;4:true!5:error;0:~18:transport_protocol;3:tcp;2:id;36:a791d12a-7c16-4afc-9cf1-c2c43283b15d;8:sockname;21:10:10.10.0.10;4:8443#]8:peername;22:10:10.10.0.20;5:51262#]}5:error;0:~2:id;36:2aef8e25-3b47-4d1f-ad6f-0c4583248b19;4:type;4:http;7:version;2:21#}4469:9:websocket;0:~8:response;721:6:reason;14:File not found,11:status_code;3:404#13:timestamp_end;17:1774261207.178862^15:timestamp_start;16:1774261207.17696^8:trailers;0:~7:content;335:<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Error response</title>
+    </head>
+    <body>
+        <h1>Error response</h1>
+        <p>Error code: 404</p>
+        <p>Message: File not found.</p>
+        <p>Error code explanation: 404 - Nothing matches the given URI.</p>
+    </body>
+</html>
+,7:headers;190:41:6:Server,28:SimpleHTTP/0.6 Python/3.12.3,]40:4:Date,29:Mon, 23 Mar 2026 10:20:06 GMT,]22:10:Connection,5:close,]43:12:Content-Type,23:text/html;charset=utf-8,]24:14:Content-Length,3:335,]]12:http_version;8:HTTP/1.0,}7:request;1097:4:path;40:/login.html?user=SaeidH&pass=Password123,9:authority;0:,6:scheme;5:https,6:method;3:GET,4:port;4:8443#4:host;10:10.10.0.10;13:timestamp_end;17:1774261207.172802^15:timestamp_start;17:1774261207.170557^8:trailers;0:~7:content;0:,7:headers;817:26:4:Host,15:10.10.0.10:8443,]28:10:Connection,10:keep-alive,]81:9:sec-ch-ua,65:"Not)A;Brand";v="8", "Chromium";v="138", "Microsoft Edge";v="138",]25:16:sec-ch-ua-mobile,2:?0,]34:18:sec-ch-ua-platform,9:"Windows",]33:25:Upgrade-Insecure-Requests,1:1,]144:10:User-Agent,125:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0,]149:6:Accept,135:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7,]33:14:Sec-Fetch-Site,11:same-origin,]29:14:Sec-Fetch-Mode,8:navigate,]23:14:Sec-Fetch-User,2:?1,]29:14:Sec-Fetch-Dest,8:document,]38:7:Referer,24:https://10.10.0.10:8443/,]46:15:Accept-Encoding,23:gzip, deflate, br, zstd,]37:15:Accept-Language,14:en-US,en;q=0.9,]]12:http_version;8:HTTP/1.1,}6:backup;0:~17:timestamp_created;18:1774261207.1706793^7:comment;0:;8:metadata;0:}6:marked;0:;9:is_replay;0:~11:intercepted;5:false!11:server_conn;1873:3:via;0:~19:timestamp_tcp_setup;18:1774261207.1557486^7:address;21:10:10.10.0.10;4:8443#]19:timestamp_tls_setup;17:1774261207.161398^13:timestamp_end;0:~15:timestamp_start;18:1774261207.1541584^3:sni;10:10.10.0.10;11:tls_version;7:TLSv1.3;11:cipher_list;0:]6:cipher;22:TLS_AES_256_GCM_SHA384;11:alpn_offers;16:2:h2,8:http/1.1,]4:alpn;0:,16:certificate_list;1340:1334:-----BEGIN CERTIFICATE-----
+MIIDqzCCApOgAwIBAgIUZiEb8zeRX6QXQlVhhw5Q3MH9wbMwDQYJKoZIhvcNAQEL
+BQAwZTELMAkGA1UEBhMCQUUxDjAMBgNVBAgMBUR1YmFpMQ4wDAYDVQQHDAVEdWJh
+aTEhMB8GA1UECgwYSW50ZXJuZXQgV2lkZ2l0cyBQdHkgTHRkMRMwEQYDVQQDDAox
+MC4xMC4wLjEwMB4XDTI2MDMxOTE0MzIxM1oXDTI3MDMxOTE0MzIxM1owZTELMAkG
+A1UEBhMCQUUxDjAMBgNVBAgMBUR1YmFpMQ4wDAYDVQQHDAVEdWJhaTEhMB8GA1UE
+CgwYSW50ZXJuZXQgV2lkZ2l0cyBQdHkgTHRkMRMwEQYDVQQDDAoxMC4xMC4wLjEw
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsrRNT0IuSTQIhS9/uNjS
+85Chb2DPDk3C2Y+hC9f0VOKqWY9N0xnKwHpb0YBpYXWZgO5ixOIXdNiFl6SU6pxz
+OryxEtxXVda45t3MgZFPgXgHuGfBvJAL3SNc0A9sIs2WRWjPlX6zbNvA4nSyvQ+t
+Di1ZhbrebwzTIonfE1wwFgACSS9QR5pw8PCB2S4NI+YM9miZNmF5t818OUy4nhMI
+izVZyUBkIevBLKv9Eu5ISEatLHfTstDXMqAiZIcxuLH8J5kcgGnaKuLIo/UGJbE0
+tnRpZ4lwqhuL+RBXDZhDxbF+XhwfjmAZNDYbaMp4tqByHuMr0cqklZ3IMvxyUoHr
+2wIDAQABo1MwUTAdBgNVHQ4EFgQUYbNakCzgiSCkelKk4Xqf7c8OybcwHwYDVR0j
+BBgwFoAUYbNakCzgiSCkelKk4Xqf7c8OybcwDwYDVR0TAQH/BAUwAwEB/zANBgkq
+hkiG9w0BAQsFAAOCAQEADJE9UZo3Gl5Zx70siAjofSFi34Y6ZCIAnwGqMitauZHI
+zLRdO7OToA0yxPJQmPWzXDi3bLrfTB0GOq+YNz21SPORQCsxihu4dnTk2cC5757h
+KyTVhLNapHDRyuzXNqhgAMEjFwJ7KIwdWeM4JdIzaX28dUACzBX7XwHR4uBqFbO1
+qxqeUdkAiqWThKge3G7yGWs6Z9wP8dzQ/cu5AAClWuS7JH4D1rZ9U18TeKNo88Tn
+u8YWGqmyIfxUdc4aTv3YIdSc+7N2ZaoWxcoacj1ebw1XczsAYS8MDGZatSjh5qwD
+mx2ViNqD4U14HQjqlb5MgnReY3OurBdsljRyQAaR0w==
+-----END CERTIFICATE-----
+,]3:tls;4:true!5:error;0:~18:transport_protocol;3:tcp;2:id;36:797d6d40-6218-4969-9532-0d7ac7139f7e;8:sockname;22:10:10.10.0.30;5:36248#]8:peername;21:10:10.10.0.10;4:8443#]}11:client_conn;473:10:proxy_mode;11:transparent;8:mitmcert;0:~19:timestamp_tls_setup;17:1774261207.169682^13:timestamp_end;0:~15:timestamp_start;18:1774261207.1533923^3:sni;0:~11:tls_version;7:TLSv1.3;11:cipher_list;0:]6:cipher;22:TLS_AES_256_GCM_SHA384;11:alpn_offers;16:2:h2,8:http/1.1,]4:alpn;0:,16:certificate_list;0:]3:tls;4:true!5:error;0:~18:transport_protocol;3:tcp;2:id;36:39caecbb-3a73-4fc1-83a6-49b1cfcd662b;8:sockname;21:10:10.10.0.10;4:8443#]8:peername;22:10:10.10.0.20;5:51265#]}5:error;0:~2:id;36:251eb10b-aeef-463e-9104-26ef620a10d4;4:type;4:http;7:version;2:21#}
