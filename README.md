@@ -1,4 +1,4 @@
-# Wireless Security - Report
+# Wireless Security Assessment- Report
 
 ## 📌 Project Overview
 This repository contains the practical security assessment and simulation report. The project explores common wireless and local network vulnerabilities, focusing on Man-in-the-Middle (MITM) attacks, ARP/DNS spoofing, and effective defense-in-depth strategies.
